@@ -1,4 +1,18 @@
-                                img {
-                                    background-color: blue;
-                                    border: 1px solid;
-                                }
+body {
+    background-color: black;
+}
+
+.pokedex {}
+
+img {
+    background-color: blue;
+    border: 1px solid;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
